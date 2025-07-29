@@ -148,6 +148,11 @@ img{
     z-index: 0;
 }
 
+.media2{
+    display: block;
+    z-index: 0;
+}
+
 .gifVariable{
     display: grid;
     grid-template-columns:1fr 1fr 1fr 1fr 1fr;
